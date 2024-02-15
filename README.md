@@ -1,11 +1,15 @@
-Hi, I'm Pawel.
+👋 Hey there! I'm Pawel, a Python enthusiast on a mission to automate everything! 💻 When I'm not crafting elegant code or diving into the depths of Python libraries, you can find me exploring new ways to streamline processes and enhance efficiency through automation.
 
-I'm a dad/husband/Fortune 500 company employee by day and code tinkerer by night :).
+🐍 Python Developer | Automation Enthusiast | Code Explorer
 
-I do mostly Python related projects, with Kotlin being my second favorite language. I look forward to learning C++ as well at some point.
+🔧 Currently tinkering with:
+- Python scripts for automation
+- Exploring PyAutoGUI for GUI automation
+- Delving into MediaPipe for computer vision applications
+- Leveraging EasyOCR for optical character recognition
+- Exploring data science and machine learning concepts
 
-Check out my Google Play account as well:
-https://play.google.com/store/apps/developer?id=Pawel+Niesler
+I'm open for collaboration on making cool code, one line of code at a time! 🚀
 
 <!---
 DJBrause/DJBrause is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
